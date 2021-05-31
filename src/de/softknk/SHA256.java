@@ -111,7 +111,8 @@ public class SHA256 {
     }
 
     /**
-     * compute the default state registers with the first 8 prime numbers
+     * compute the default state registers with the first 8 prime numbers (defines
+     * the initial hash value)
      *
      * @return default state registers array
      */
